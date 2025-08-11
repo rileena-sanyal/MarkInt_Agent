@@ -2,11 +2,6 @@
 A multi-agent system for tracking AI news, company updates, model launches, funding, and founder stories. Uses web search + Neo4j knowledge graph to store, link, and visualise facts over time, delivering context-aware reports with CrewAI and MCP tools.
 
 
-# MarkInt – AI Industry Intelligence Agent
-
-MarkInt is a multi-agent AI system for tracking and reporting on the latest developments in the AI industry.  
-It continuously searches for news, startup updates, model launches, funding rounds, and founder stories, storing them in a Neo4j-powered knowledge graph for context-aware, longitudinal insights.
-
 ## 🚀 Features
 - **Web Search Agent** – Finds credible and timely AI-related news and announcements.  
 - **Memory Manager Agent** – Stores and links facts in a Neo4j graph database for future reference.  
