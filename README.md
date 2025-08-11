@@ -49,6 +49,6 @@ MIT License – free to use and modify.
 
 Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/MarkInt_Agent.git
+   git clone https://github.com/rileena-sanyal/MarkInt_Agent.git
    cd MarkInt_Agent
    
